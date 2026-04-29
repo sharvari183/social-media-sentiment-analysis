@@ -1,0 +1,10 @@
+text,sentiment,cleaned,predicted
+I love this product,positive,love product,positive
+This is amazing,positive,amazing,positive
+Worst service ever,negative,worst service ever,negative
+Very bad experience,negative,bad experience,negative
+It is okay,neutral,okay,neutral
+Nothing special,neutral,nothing special,neutral
+Excellent quality,positive,excellent quality,neutral
+Horrible delivery,negative,horrible delivery,neutral
+Average performance,neutral,average performance,neutral
